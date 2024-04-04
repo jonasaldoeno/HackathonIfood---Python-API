@@ -7,7 +7,7 @@ Esta API fornece informações sobre uma variedade de animais, incluindo o que c
 ## Estrutura do Projeto
 
 ```plaintext
-/
+/pasta-raiz
 │
 ├── /app                    # Pasta principal da aplicação, onde está localizado o código-fonte da API.
 │   ├── __init__.py         # Arquivo para tornar este diretório um pacote Python.
