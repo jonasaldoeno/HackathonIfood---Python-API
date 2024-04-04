@@ -2,6 +2,8 @@
 
 Esta API fornece informações sobre diferentes animais.
 
+**Utilize python versão 3.10 ou superior.**
+
 ## Como Executar
 
 1. Instale as dependências:
